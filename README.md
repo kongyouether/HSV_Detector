@@ -1,1 +1,4 @@
-This is a HSV_Detector
+这是一个图片的HSV值查看器
+包括返回鼠标点击处的HSV值，和模拟HSV阈值蒙版演示功能
+注释已经很详细了
+再不会可以让copilot帮你读一下
